@@ -229,20 +229,17 @@
   width: 100% !important;
   height: 100% !important;
 }
-
-.schedule tbody td {
-  width: 80%;
+.schedule {
+    width: 100%;
 }
-
-.schedule tbody th {
-  color: #a9b2b9;
-  font-size: 15px;
-  /*font-weight: 400;*/
-  text-transform: uppercase;
-  vertical-align: center;
-  width: 20%;
-  text-align: right;
-  padding-right: 25px;
+.schedule td, .schedule th {
+    padding: 10px;
+}
+.schedule table {
+    margin-top: 10px;
+}
+.schedule table td, .schedule table th {
+    padding: 5px;
 }
 .logo-container {
   display: flex;
@@ -260,11 +257,11 @@
 
 .logo-link {
   display: inline-block;
-  max-width: 150px;
+  max-width: 45%;
 }
 
 .logo-link.wide {
-  max-width: 600px; /* Circa la somma della larghezza dei due loghi sopra */
+  max-width: 80%; /* Circa la somma della larghezza dei due loghi sopra */
 }
 
 .logo {
