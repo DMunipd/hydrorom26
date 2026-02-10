@@ -10,18 +10,27 @@ moriguchi:
 dolojan:
   name: Nilo Dolojan
   affiliation: Tohoku University - iRIDES (Japan)
-tba1:
-  name: tba tba
+ceccato:
+  name: Francesca Ceccato
   affiliation: University of Padova (Italy)
-tba2:
-  name: tba tba
+gregoretti:
+  name: Carlo Gregoretti
   affiliation: University of Padova (Italy)
-tba3:
-  name: tba tba
+dalpaos:
+  name: Andrea D'Alpaos
+  affiliation: University of Padova (Italy)
+marani:
+  name: Marco Marani
+  affiliation: University of Padova (Italy)
+marani:
+  name: Marco Marani
   affiliation: University of Padova (Italy)
 larese:
   name: Antonia Larese
   affiliation: University of Padova (Italy)
 bachini:
   name: Elena Bachini
+  affiliation: University of Padova (Italy)
+kumar:
+  name: Deependra Kumar
   affiliation: University of Padova (Italy)

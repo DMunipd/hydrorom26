@@ -314,3 +314,8 @@
         background-color: {{site.color.primary-dark}};
     }
 }
+
+.time-column {
+      min-width: 120px; /* Puoi regolare questo valore secondo le tue esigenze */
+      white-space: nowrap;
+   }
