@@ -1,33 +1,33 @@
-- name: Antonia Larese
+- name: Elena Bachini
   affiliation:  UNIPD (Italy)
-  # image: assets/img/organizers/larese.jpg
-  image: https://antonialarese.github.io/images//DSC_0581-EDIT.jpg
-  website: https://antonialarese.github.io/
-  github: https://github.com/antonialarese
-  linkedin: https://www.linkedin.com/in/antonialarese/
-- name: Nicolò Crescenzio
+  image: assets/img/organizers/elena_bachini1.jpg
+  website: https://elenabachini.github.io/
+  github: 
+  linkedin:
+  - name: Nicolò Crescenzio
   affiliation: UNIPD (Italy)
   # image: https://via.placeholder.com/400
   image: https://media.licdn.com/dms/image/v2/C4D03AQGEnUuZtnfz2g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1538317271404?e=2147483647&v=beta&t=iWexdSR4x-J678DnnI9hExLKXkUJRt0GSdszzN7d_7g
   website:
   github:
   linkedin:
-- name: Elena Bachini
-  affiliation:  UNIPD (Italy)
-  image: assets/img/organizers/elena_bachini1.jpg
-  website: https://elenabachini.github.io/
+  - name: Deependra Kumar
+  affiliation: UNIPD (Italy)
+  image: assets/img/organizers/deependra_kumar1.JPG
+  website: https://www.researchgate.net/profile/Deependra-Kumar-5
   github: 
   linkedin: 
+  - name: Antonia Larese
+  affiliation:  UNIPD (Italy)
+  # image: assets/img/organizers/larese.jpg
+  image: https://antonialarese.github.io/images//DSC_0581-EDIT.jpg
+  website: https://antonialarese.github.io/
+  github: https://github.com/antonialarese
+  linkedin: https://www.linkedin.com/in/antonialarese/
 - name: Damiano Pasetto
   affiliation: UniVe (Italy)
   image: assets/img/organizers/damiano_pasetto2.JPG
   website: https://www.unive.it/data/persone/21736721
-  github: 
-  linkedin: 
-- name: Deependra Kumar
-  affiliation: UNIPD (Italy)
-  image: assets/img/organizers/deependra_kumar1.JPG
-  website: https://www.researchgate.net/profile/Deependra-Kumar-5
   github: 
   linkedin: 
 
