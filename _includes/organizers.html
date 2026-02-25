@@ -12,7 +12,8 @@
 
     <div class="row center-align">
       {% for organizers in site.data.organizers %}
-        <div class="col s12 m6 l2">
+      <a href="{{organizers.website}}">
+        <div class="col s6 m4 l2">
           <div class="card hoverable">
             <div class="card-image">
               <img class="activator portrait-img" src="{{organizers.image}}"
@@ -28,6 +29,7 @@
             </div>
           </div>
         </div>
+      </a>
       {% endfor %}
     </div>
 
