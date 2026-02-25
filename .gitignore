@@ -5,12 +5,12 @@ _site
 Gemfile
 Gemfile.lock
 
+.bundle/
 vendor/
-venv3/
 
 *.aux
 *.log
 *.out
 
 .ipynb_checkpoints/
-venv/
+.venv/
